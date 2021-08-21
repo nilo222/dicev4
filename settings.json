@@ -1,7 +1,7 @@
 {
  "Account": {
-  "Username": "",
-  "Password": "",
+  "Username": "rokok92",
+  "Password": "PERsis1923//",
   "Currency": "Doge",
   "2FA": "OFF",
   "API Access": "OFF",
@@ -14,27 +14,27 @@
  "Betset": [
   {
    "Name Bet Set": "00 - @BEDUCODE SETTING",
-   "Base Bet": "0.0000001",
+   "Base Bet": "0.0001",
    "Stop Max Bet": "OFF",
    "Chance": "79.5",
    "Max LS Strike": "OFF",
    "Random Chance": {
     "Toggle": "ON",
-    "Min": "32.2",
-    "Max": "79.5"
+    "Min": "80.2",
+    "Max": "85.5"
    },
    "Bet": {
     "Bet": "Hi",
     "Hi / Low": {
-     "Toggle": "ON",
+     "Toggle": "OFF",
      "If Lose": "1",
      "If Win": "1"
     }
    },
    "Mode1": {
-    "Toggle": "ON",
-    "Lose": "1.4",
-    "Win": "1",
+    "Toggle": "OFF",
+    "Lose": "1.5",
+    "Win": "0.919",
     "Profit": "0.00000001"
    },
    "Mode2": {
